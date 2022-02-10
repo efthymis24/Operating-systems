@@ -4,4 +4,4 @@ This repo holds a project for Operating Systems course. In this project our work
 
 #
 
-Contributors: Alexandros Pappas & Efthymis Efthymiadis
+Contributors: Giannis Baltas & Alexandros Pappas
